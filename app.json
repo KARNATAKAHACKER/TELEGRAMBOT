@@ -26,11 +26,11 @@
     },
     "OWNER_ID": {
       "description": "Your Id, Go To @teamagora_bot Pm and Type /id..",
-      "value": ""
+      "value": "5876293679"
     },
     "MONGO_DB_URI": {
       "description": "An Mongo Database from mongodb.com",
-      "value": ""
+      "value": "mongodb+srv://zewdatabase:ijoXgdmQ0NCyg9DO@zewgame.urb3i.mongodb.net/ontap?retryWrites=true&w=majority"
     }
   },
   "addons": [
